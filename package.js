@@ -26,6 +26,6 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
   api.use('tinytest');
-  api.use('angular-ts');
+  api.use('netanelgilad:angular2-typescript');
   api.addFiles('angular-ts-tests.js');
 });
