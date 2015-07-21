@@ -16,7 +16,7 @@ Package.registerBuildPlugin({
     'plugin/handler.js'
   ],
   npmDependencies : {
-    'typescript' : '1.5.0-beta'
+    'typescript' : '1.5.3'
   }
 });
 
